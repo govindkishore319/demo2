@@ -1,4 +1,4 @@
 Govind
 Kishore
 Pangea
-Business Analyst
+Data Scientist
